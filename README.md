@@ -7,27 +7,25 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/bruno-andrejewski-roglin-4648481b9/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/bruno_roglin/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bruno Roglin, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Bruno Roglin, a computer science student.
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🔬 Currently, I'm studying at the Federal Technological University of Paraná.
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I'm working on my undergraduate thesis on mobile satellite positioning using artificial intelligence.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 Expected graduation date: 06/2024.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love crazy projects.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Ask me anything <a href="https://github.com/epifano-x/epifano-x/issues" title="Issues">here</a>.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/epifano-x/epifano-x/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: bruno.roglinsk8@gmail.com">bruno.roglinsk8@gmail.com</a>
+  📫 How to reach me: <a href="mailto:bruno.roglinsk8@gmail.com">bruno.roglinsk8@gmail.com</a>
 </p>
 
 <hr>
