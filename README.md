@@ -80,7 +80,6 @@
 
 <hr>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center">
   <a href="https://github.com/epifano-x?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
