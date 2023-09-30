@@ -21,8 +21,6 @@
   <br>
   🎓 Expected graduation date: 06/2024.
   <br>
-  💻 I love crazy projects.
-  <br>
   💬 Ask me anything <a href="https://github.com/epifano-x/epifano-x/issues" title="Issues">here</a>.
   <br>
   📫 How to reach me: <a href="mailto:bruno.roglinsk8@gmail.com">bruno.roglinsk8@gmail.com</a>
