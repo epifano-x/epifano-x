@@ -12,18 +12,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Bruno Roglin, a computer science student.
+  Hi, I'm Bruno Roglin, a Computer Scientist focused on intelligent systems and scalable applications.
   <br>
   <br>
-  🔬 Currently, I'm studying at the Federal Technological University of Paraná.
+  🏫 I studied at the Federal Technological University of Paraná (UTFPR).
   <br>
-  🎓 I'm working on my undergraduate thesis on mobile satellite positioning using artificial intelligence.
+  🤖 I developed a thesis on mobile satellite positioning using artificial intelligence.
   <br>
-  🎓 Expected graduation date: 06/2024.
+  💻 I work with full-stack development (.NET, C#, Angular, Blazor), AI (Python, TensorFlow, scikit-learn), and scalable architectures (Docker, Traefik, MongoDB, RabbitMQ).
   <br>
-  💬 Ask me anything <a href="https://github.com/epifano-x/epifano-x/issues" title="Issues">here</a>.
+  💬 Let's connect — open an <a href="https://github.com/epifano-x/epifano-x/issues" title="Issues">issue</a> to chat.
   <br>
-  📫 How to reach me: <a href="mailto:bruno.roglinsk8@gmail.com">bruno.roglinsk8@gmail.com</a>
+  📫 Contact me: <a href="mailto:bruno.roglinsk8@gmail.com">bruno.roglinsk8@gmail.com</a>
 </p>
 
 <hr>
